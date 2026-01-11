@@ -19,7 +19,3 @@ This project implements a Variational Autoencoder (VAE) using the MusicCaps data
 - notebooks/: main and exploratory notebooks
 - data/processed/: extracted features
 - results/plots/: t-SNE visualizations
-
-Notes:
-- Raw audio was not used.
-- Captions from MusicCaps were used for text embeddings.
