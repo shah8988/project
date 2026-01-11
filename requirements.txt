@@ -1,0 +1,8 @@
+datasets
+librosa
+torch
+torchvision
+scikit-learn
+matplotlib
+sentence-transformers
+pandas
